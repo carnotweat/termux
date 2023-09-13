@@ -1,0 +1,7 @@
+The Org website[fn:1] now looks[fn:2] a lot better than it used to.
+...
+[fn:1] The link is: https://orgmode.org[fn:2]
+
+* Footnotes
+
+[fn:2] test 
